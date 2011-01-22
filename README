@@ -1,0 +1,8 @@
+This was intended to be a rewrite of an older project of mine but it never got
+far beyond the core framework and simple GUI (as is the case with most of my
+projects --- I get bored of them by that point). Regardless, it features some 
+pretty awesome things, including a mathematica-esque kernel (without all the
+bullshit), on the fly compilation of formulas using BCEL (worth a look, if just
+for that), and some pretty high end (if I do say so myself) math parsing logic.
+
+~Benjamin Land
